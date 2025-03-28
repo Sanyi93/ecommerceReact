@@ -46,7 +46,7 @@ const CartSlice = createSlice ({
 });
 
 const initialState = {
-    const cartItems: [],
+    const cartItems = [],
 };
 
 export const {
